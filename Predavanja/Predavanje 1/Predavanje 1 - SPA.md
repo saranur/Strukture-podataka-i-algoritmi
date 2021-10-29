@@ -1,7 +1,6 @@
 From this book:
-https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
 
-[Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+[Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 
 Stack Page - 232 
 Linked List Page - 236
