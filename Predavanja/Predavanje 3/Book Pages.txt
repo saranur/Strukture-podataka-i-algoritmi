@@ -1,0 +1,11 @@
+Note - Same book pages, since we are still covering the same chapters :) 
+
+From this book:
+https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
+
+Analyzing Algorithms - Page (21)
+
+From this book: 
+https://www.amazon.com/Data-Structures-Algorithm-Analysis-2nd/dp/0201498405
+
+Chapter 2 - Algorithm Analysis -- Page (15)
