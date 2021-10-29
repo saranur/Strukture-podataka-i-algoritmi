@@ -3,21 +3,18 @@
 <details>
   <summary>Predavanja</summary>
   <br>
-  <ol>
+  <ul>
     
- <li><a href=""> Predavanje </a></li>
-    <li><a href=""> Predavanje </a></li>
-    <li><a href=""> Predavanje  </a></li>
-    <li><a href=""> Predavanje  </a></li>
-    <li><a href=""> Predavanje  </a></li>
-    <li><a href=""> Predavanje  </a></li>
-    <li><a href=""> Predavanje  </a></li>
-    <li><a href=""> Predavanje  </a></li>
-    <li><a href=""> Predavanje  </a></li>
-    <li><a href=""> Predavanje  </a></li>
+ <li>Predavanje 2 (15.10.2021): <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Predavanja/Introduction%20to%20Data%20structures.docx?raw=true"> Intorudction to Data Structures </a> - <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Predavanja/Predavanje%201/Predavanje%201%20-%20SPA.md">Book Pages</a> - <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Predavanja/Predavanje%201/P2_ASP_Stek_2018_9.pdf"> Stack </a></li>
+    <li>Predavanje 3 (22.10.2021): <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Predavanja/Predavanje%202/Queue,%20Algorithm%20Analysis.docx?raw=true"> Queue, Algorithm Analysis </a> - <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Predavanja/Predavanje%202/Book%20Pages.txt"> Book Pages  </a></li>
+    <li>Predavanje 4 (29.10.2021): <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%203/Algorithm%20Analysis%20Part%202.pdf"> Algorithm Analysis Part 2  </a> - <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Predavanja/Predavanje%203/Book%20Pages.txt"> Book Pages  </a></li>
+    <li>Predavanje 5 (05.11.2021): <a href="">   </a></li>
+    <li>Predavanje 6 (12.11.2021): <a href="">   </a></li>
+    <li>Predavanje <a href="">   </a></li>
+    <li>Predavanje <a href="">   </a></li>
     
     
-  </ol>
+  </ul>
   </details>
   <hr>
   
@@ -27,11 +24,13 @@
 <details>
   <summary>Vježbe</summary>
 <br>
-<ol>
+<ul>
 
-<li><a href="">Vježba </a> (15.10.2021)</li>
-<li><a href="">Vježba </a> (22.10.2021)</li>
-<li><a href="">Vježba </a> (29.10.2021)</li>
-  </ol>
+<li><a href="">Vježba 1</a>  (15.10.2021)</li>
+<li><a href="">Vježba 2 </a> (22.10.2021)</li>
+<li><a href="">Vježba 3</a> (29.10.2021)</li>
+<li><a href="">Vježba 4</a> (05.11.2021)</li>
+<li><a href="">Vježba 5</a> (12.11.2021)</li>
+  </ul>
 </details>
 <hr>
