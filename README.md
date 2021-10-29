@@ -26,7 +26,7 @@
 <br>
 <ul>
 
-<li><a href="">Vježba 1</a>  (15.10.2021)</li>
+<li><a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Vje%C5%BEbe/Vje%C5%BEba%201/Vje%C5%BEba%201.cpp">Vježba 1</a>  (15.10.2021)</li>
 <li><a href="">Vježba 2 </a> (22.10.2021)</li>
 <li><a href="">Vježba 3</a> (29.10.2021)</li>
 <li><a href="">Vježba 4</a> (05.11.2021)</li>
