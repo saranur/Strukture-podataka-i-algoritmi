@@ -1,8 +1,8 @@
 # Strukture-podataka-i-algoritmi
 **Books:** <br>
-[Data Structures and Algorithm Analysis in C, Second Edition](url) 
+_Data Structures and Algorithm Analysis in C, Second Edition_ [View on web](https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Knjige/Data_Structures_and_Algorithm_Analysis_in_C.pdf) - [Download](https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Knjige/Data_Structures_and_Algorithm_Analysis_in_C.pdf) 
 <br>
-[Introduction to algorithms 3rd Edition](https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Knjige/Introduction_to_algorithms-3rd%20Edition.pdf)
+_Introduction to algorithms 3rd Edition_ [View on web](https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Knjige/Introduction_to_algorithms-3rd%20Edition.pdf)  - [Download](https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Knjige/Introduction_to_algorithms-3rd%20Edition.pdf)
 <br>
 **Useful info:** <br>
 [Big-O notation (Basics)](https://www.youtube.com/watch?v=__vX2sjlpXU)
