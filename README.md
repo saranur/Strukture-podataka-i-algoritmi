@@ -35,7 +35,7 @@ _Introduction to algorithms 3rd Edition_ [View on web](https://github.com/saranu
 <ul>
 
 <li><a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Vje%C5%BEbe/Vje%C5%BEba%201/Vje%C5%BEba%201.cpp">Vježba 1</a>  (15.10.2021)</li>
-<li><a href="">Vježba 2 </a> (22.10.2021)</li>
+<li><a href="">Vježba 2 </a> (22.10.2021)<a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Vje%C5%BEbe/Vje%C5%BEba%202/Vje%C5%BEba%201%2C%202%20-%20Stack%2C%20Queue.md"> Stack / Queue </a></li>
 <li><a href="">Vježba 3</a> (29.10.2021)</li>
 <li><a href="">Vježba 4</a> (05.11.2021)</li>
 <li><a href="">Vježba 5</a> (12.11.2021)</li>
