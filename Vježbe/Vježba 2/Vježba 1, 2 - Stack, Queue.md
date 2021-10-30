@@ -30,5 +30,15 @@ Ne isplati se korisitit FIFO kod reda.
 
 
 
-Koristićemo povevezanu varijantu 
+Koristićemo **POVEZANU REPREZENTACIJU**
+
+Red implementiran povezanom reprezentacijom se sastoji od sljedećih čvorova:
+
+a)   pokazivač na početak (prvi čvor povezane liste )
+
+b)   pokazivač na kraj (zadnji čvor povezane liste)
+
+Ovo eliminira potrebu korištenja petlje. 
+
+
 
