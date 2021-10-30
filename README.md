@@ -2,7 +2,7 @@
 **Books:** <br>
 [Data Structures and Algorithm Analysis in C, Second Edition](url) 
 <br>
-[Introduction to algorithms 3rd Edition](https://www.edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+[Introduction to algorithms 3rd Edition](https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Knjige/Introduction_to_algorithms-3rd%20Edition.pdf)
 <br>
 **Useful info:** <br>
 [Big-O notation (Basics)](https://www.youtube.com/watch?v=__vX2sjlpXU)
