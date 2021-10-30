@@ -18,8 +18,8 @@
     <li>Predavanje 4 (29.10.2021): <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%203/Algorithm%20Analysis%20Part%202.pdf"> Algorithm Analysis Part 2  </a> - <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Predavanja/Predavanje%203/Book%20Pages.txt"> Book Pages  </a></li>
     <li>Predavanje 5 (05.11.2021): <a href="">   </a></li>
     <li>Predavanje 6 (12.11.2021): <a href="">   </a></li>
-    <li>Predavanje <a href="">   </a></li>
-    <li>Predavanje <a href="">   </a></li>
+    <li>Predavanje 7 (19.11.2021): <a href="">   </a></li>
+    <li>Predavanje 8 (26.11.2021): <a href="">   </a></li>
     
     
   </ul>
