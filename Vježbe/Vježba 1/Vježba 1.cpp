@@ -36,7 +36,7 @@ public:
 };
 class Stack
 {
-	
+
 public:
 	virtual void dodaj(int x) = 0;
 
@@ -72,12 +72,12 @@ public:
 
 
 class ListaSekv : public Lista
-//ListaSekv znaci da cemo korisiti nizove za cuvanje dodatnih podataka
-//svaki x koji se doda dodaje se u niz
+	//ListaSekv znaci da cemo korisiti nizove za cuvanje dodatnih podataka
+	//svaki x koji se doda dodaje se u niz
 {
 	int brojac = 0;
-	int  max=5;
-	int *N = new int[max];
+	int  max = 5;
+	int* N = new int[max];
 public:
 	void prosiri_niz()
 	{
@@ -96,35 +96,35 @@ public:
 		if (brojac == max)
 			prosiri_niz();
 		for (int i = brojac; i >= 1; i--)
-			N[i] = N[i-1];
+			N[i] = N[i - 1];
 
-			brojac++;
-			N[0] = x;
+		brojac++;
+		N[0] = x;
 	}
 	int ukloni_sa_pocetka() {
 		if (brojac == 0)
 			throw exception("Greska! Lista je prazna");
 		int x = N[0];
-		for (int i = 0; i < brojac-1; i++)
+		for (int i = 0; i < brojac - 1; i++)
 			N[i] = N[i + 1];
-		
+
 		brojac--;
 		return x;
-		
+
 	}
 
 	void dodaj_na_kraj(int x) {
-		if (brojac == max) 
+		if (brojac == max)
 			prosiri_niz();
 		N[brojac] = x;
 		brojac++;
 	}
 
-	
+
 
 	int ukloni_sa_kraja() {
-		
-		if(brojac==0)
+
+		if (brojac == 0)
 			throw exception("Greska! Lista je prazna.");
 		brojac--;
 		int x = N[brojac];
@@ -204,13 +204,13 @@ struct Cvor
 };
 
 class ListaPov : public Lista
-/* kod ListaPov koristicemo dinamicku memoriju, odnosno cvorove u dinamickoj memoriji
-gdje svaki cvor cuva samo jedan podatak i onda se ti cvorovi povezuju.
+	/* kod ListaPov koristicemo dinamicku memoriju, odnosno cvorove u dinamickoj memoriji
+	gdje svaki cvor cuva samo jedan podatak i onda se ti cvorovi povezuju.
 
-*/
+	*/
 {
-	Cvor *prvi = nullptr;
-		int brojac = 0;
+	Cvor* prvi = nullptr;
+	int brojac = 0;
 public:
 	void dodaj_na_pocetak(int x)
 	{
@@ -219,8 +219,8 @@ public:
 		brojac--;
 	}
 	int ukloni_sa_pocetka() {
-	//	int x= prvi //ne mozemo pisati ovako jer je prvi tipa cvor
-		//int x = (*prvi).info;
+		//	int x= prvi //ne mozemo pisati ovako jer je prvi tipa cvor
+			//int x = (*prvi).info;
 		int x = prvi->info; //kraci nacin pisanja, broj je kopiran u varijablu x
 		Cvor* t = prvi; //pomocni pokazivac jer ne mozemo samo obrisati prvi , na ovaj nacin mozemo dealocirati prvi clan
 		prvi = prvi->next;
@@ -230,14 +230,41 @@ public:
 	}
 
 	void dodaj_na_kraj(int x) {
-
-
+		if (prvi == nullptr) {
+			//ako je lista prazna 
+			prvi = new Cvor(x, nullptr);
+			return;
+		}
+		Cvor* t = prvi;
+		while (t->next != nullptr) {
+			t = t->next;
+		}
+		t->next = new Cvor(x, nullptr);
 	}
 
-	
 
 	int ukloni_sa_kraja() {
-		return -1;
+		//pt pokazuje na prethodni pokazivac, jer ukoliko uklonimo zadnji element, predzadnji element nece biti nullptr
+		if (jel_prazna())
+		{
+			throw exception("Greska! Lista je prazna");
+		}
+		Cvor* pt = nullptr;
+		Cvor* t = prvi;
+		while (t->next != nullptr) {
+			pt = t; //pt cuva vrijednost t- tako da nakon sto uklonimo zadnji clan, mozemo modifiktovati predzanji (moramo ga staviti na nullptr nakon uklanjanja zadnjeg clana)
+			t = t->next; //prolazimo od prvog do zadnjeg clana
+		}
+		int x = t->info;
+		delete t;
+		if (pt != nullptr) {
+			pt->next = nullptr; //nakon uklanjanja zadnjeg clana, prethodni pointer postavljamo na nula jer sada je on zadnji clan 	
+		}
+		else {
+			//ako je lista imala jedan element
+			prvi = nullptr;
+		}
+		return x;
 	}
 
 	bool jel_prazna()
@@ -246,7 +273,12 @@ public:
 	}
 
 	int operator[](int index) {
-		throw exception("nije implementirano");
+		Cvor* t = prvi;
+		for (int i = 0; i < index; i++)
+		{
+			t = t->next;
+		}
+		return t->info;
 	}
 
 	int get_brojac() {
@@ -318,7 +350,7 @@ void funkcija(Stack& L) //moguce je koristiti ovu funkciju jer smo stavili refer
 {
 	for (int i = 0; i < 10; ++i)
 	{
-		L.dodaj(i); 
+		L.dodaj(i);
 	}
 	while (!L.jel_prazna())
 	{
@@ -337,7 +369,7 @@ void main()
 	//Lista* p3 = new ListaSekv;
 
 	funkcija(x1);  //obje liste (klase) saljemo u funkciju, ovo je moguce ako obje imaju istu baznu klase ili ako je jedna drugu naslijedila 
-	
+
 	//funkcija(x2);
 	StackSekv s1;
 	StackPov s2;
