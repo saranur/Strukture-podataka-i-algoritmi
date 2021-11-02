@@ -38,7 +38,7 @@ a)   pokazivač na početak (prvi čvor povezane liste )
 
 b)   pokazivač na kraj (zadnji čvor povezane liste)
 
-Ovo eliminira potrebu korištenja petlje. 
+Ovo eliminira potrebu korištenja petlje i prolaska kroz citavu listu.
 
 
 
