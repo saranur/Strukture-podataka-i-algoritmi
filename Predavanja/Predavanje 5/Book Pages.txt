@@ -1,0 +1,12 @@
+Note - Same book pages, since we are still covering the same chapters :) 
+
+From this book:
+https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
+
+Chapter 2 - Pages (15 - 19)
+Chapter 6 - Pages (127 - 138) 
+
+From this book: 
+https://www.amazon.com/Data-Structures-Algorithm-Analysis-2nd/dp/0201498405
+Chapter 7 - Pages (220 - 221)
+Chapter 6 - Pages (179 - 186)
