@@ -6,6 +6,8 @@ _Introduction to algorithms 3rd Edition_ [View on web](https://github.com/saranu
 <br>
 **Useful info:** <br>
 [Big-O notation (Basics)](https://www.youtube.com/watch?v=__vX2sjlpXU)
+<br>
+[Predavanja-snimljena ](https://www.youtube.com/watch?v=m8NzhBFAd5w&list=PLJCjqoTZy0H8DCKc0kHg_4Xnxecu8Jg7-)
 <hr>
 
 <details>
