@@ -4,10 +4,13 @@ _Data Structures and Algorithm Analysis in C, Second Edition_ [View on web](http
 <br>
 _Introduction to algorithms 3rd Edition_ [View on web](https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Knjige/Introduction_to_algorithms-3rd%20Edition.pdf)  - [Download](https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Knjige/Introduction_to_algorithms-3rd%20Edition.pdf)
 <br>
-**Useful info:** <br>
+**Useful info:** 
 [Big-O notation (Basics)](https://www.youtube.com/watch?v=__vX2sjlpXU)
-<br>
+~
 [Predavanja-snimljena ](https://www.youtube.com/watch?v=m8NzhBFAd5w&list=PLJCjqoTZy0H8DCKc0kHg_4Xnxecu8Jg7-)
+<hr>
+Algoritms💛
+<a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Blackboards/BinaryTreeTraversal.png">Binary tree traversals</a>  ~  <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Blackboards/Dijkstra.png">Dijkstra</a>  ~  <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Blackboards/DivideAndConquer.png">Divide And Conquer</a>  ~  <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Blackboards/GraphTheoreticModels.png">Graph Theoretic Models</a>  ~  <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Blackboards/MST.png">MST</a>  ~  <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Blackboards/BST_AVL.png">BST & AVL</a>  ~  <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Blackboards/RadixSort.png"> Heap and radix sort</a>
 <hr>
 
 <details>
@@ -22,10 +25,10 @@ _Introduction to algorithms 3rd Edition_ [View on web](https://github.com/saranu
     <li>
       Predavanje 5 (12.11.2021): <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%205/P4_ASP_Prioritetni_red_2018_9.pdf">  Prioritetni red  </a> -<a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%205/P5_ASP_Sortiranje_1_2018_9.pdf"> Sortiranje  </a> -<a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%205/Heap-BubbleSort-InsertionSort.docx">  Heap-Bubble Sort   </a> -<a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Predavanja/Predavanje%205/Book%20Pages.txt">  Book Pages </a></li>
     <li>Predavanje 6 (19.11.2021): <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%206/Sorting%20Algorithms%20(cont.).pdf"> Sorting Algoritms: Whiteboard  </a> -<a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%206/P6_ASP_Sortiranje_2_2018_9.pdf">  Sortiranje 2 </a>-<a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%206/QuickSort%20original%20scientific%20paper%20-%20CARHoare%20-%201961.pdf"> QuickSort original scientific paper  </a> -<a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/edit/main/Predavanja/Predavanje%206/Book%20Pages.txt"> Book Pages </a></li>
-     <li>Predavanje 7 (24.11.2021): <a href=""> Radix sort </a></li>
+     <li>Predavanje 7 (24.11.2021): <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Blackboards/RadixSort.png"> Radix sort </a></li>
      <li>Predavanje 8 (10.12.2021): <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%207/Hashing.pdf"> Hashing: Whiteboard </a>- <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%207/P8_ASP_Hashing_2018_9.pdf"> Hashing </a> - <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%207/Book%20Pages.txt"> Book pages </a></li>
-   <li>Predavanje 9 (22.12.2021): <a href=""> Intro to Graph Theory </a></li>
-   <li>Predavanje 10(31.12.2021): <a href="">  </a></li>
+   <li>Predavanje 9 (22.12.2021): <a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%209/Intro%20to%20graph%20theory.pdf"> Intro to Graph Theory: BLackboard </a>-<a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/raw/main/Predavanja/Predavanje%209/P8_ASP_Graf_2018_9.pdf"> Graph Theory</a> -<a href="https://github.com/saranur/Strukture-podataka-i-algoritmi/blob/main/Predavanja/Predavanje%209/Book%20Pages.txt"> Book pages </a></li>
+   <li>Predavanje 10(31.12.2021): <a href=""> DFS BFS </a></li>
     
     
     
